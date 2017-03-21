@@ -43,5 +43,3 @@ p*as.numeric(coe[9])*Agewoe$WOE[2]*-1
 
 p*as.numeric(coe[10])*ForeignWorkerwoe$WOE[1]*-1
 p*as.numeric(coe[10])*ForeignWorkerwoe$WOE[2]*-1
-
-test
